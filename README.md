@@ -39,7 +39,7 @@ Im Trey.😃 I am a driven and multi-talented individual with a deep passion for
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
 </br>
-#
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
